@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/alanleon"><img src="https://img.shields.io/github/followers/alanleon?style=social" alt="GitHub followers"></a>
-  <a href="[https://www.linkedin.com/in/alan-leon/](https://www.linkedin.com/in/alan-antonio-le%C3%B3n-hern%C3%A1ndez-0271962a3/)"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alan-antonio-le%C3%B3n-hern%C3%A1ndez-0271962a3/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Code-Java%20%7C%20Kotlin%20%7C%20Spring%20Boot%20%7C%20Ext%20JS-green?logo=code" alt="Stack principal">
   <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20AWS%20%7C%20JFrog%20%7C%20CI%2FCD-blueviolet?logo=githubactions" alt="DevOps stack">
 </p>
@@ -47,25 +47,6 @@ Me apasiona crear soluciones completas: desde el front-end con **Ext JS** hasta 
 
 ---
 
-### 🔥 Microservicio para Reportes de Fraude (Grupo Financiero)
-> Desarrollo de un microservicio con arquitectura de 4 capas para administrar reportes de fraude en adquirencia.
-
-- 🧩 Capas: **Presentación (Ext JS + Jasper)**, **Negocio (Spring)**, **Persistencia (Hibernate + DAO)** y **Datos (Oracle)**
-- 🔁 Implementación de flujo: alta, validación, bitácora y liberación de comercios en lista negra
-- 🔐 Integración segura mediante **DWR** y validaciones backend
-- 🧾 **Tecnologías:** Java 7, Spring, Hibernate, JasperReports, Oracle
-
----
-
-### 🧪 App de Control de Gastos (MVVM + Compose)
-> Aplicación Android para registrar y visualizar gastos por día, semana, mes y año.
-
-- 🎨 UI moderna con **Jetpack Compose**
-- 🧱 Arquitectura **MVVM**
-- 📊 Gráficas dinámicas (Dona, Barras) con selección por rango de tiempo
-- 🧾 **Tecnologías:** Kotlin, Compose, ViewModel, Room
-
----
 
 ### 🧰 Sistema de Detección de Gas con Electroválvula y MQTT
 > Proyecto IoT para control automático de válvula según nivel de gas.
@@ -87,7 +68,7 @@ Me apasiona crear soluciones completas: desde el front-end con **Ext JS** hasta 
 
 ## 📫 Cómo contactarme
 📧 **alan.leon.dev@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/alan-leon/)  
+💼 [LinkedIn](https://www.linkedin.com/in/alan-antonio-le%C3%B3n-hern%C3%A1ndez-0271962a3/)  
 💻 [GitHub](https://github.com/alanleon)
 
 ---
