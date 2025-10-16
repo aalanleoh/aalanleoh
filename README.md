@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola, soy Alan León!</h1>
 
 <p align="center">
-  <strong>Desarrollador de Software | Android | Java | Kotlin | Spring | DevOps Jr</strong>
+  <strong>Desarrollador de Software | Android | Java | Kotlin | Spring </strong>
 </p>
 
 <p align="center">
@@ -27,11 +27,10 @@ Me apasiona crear soluciones completas: desde el front-end con **Ext JS** hasta 
 | Categoría | Tecnologías |
 |------------|-------------|
 | **Lenguajes** | Java, Kotlin, JavaScript |
-| **Frameworks** | Spring Boot, Hibernate, Ext JS, Jetpack Compose |
-| **DevOps / Cloud** | Docker, JFrog, AWS (básico), Portainer, Coolify, MinIO |
-| **Bases de datos** | Oracle, MySQL |
+| **Frameworks** | Spring Boot, Hibernate, Jetpack Compose |
+| **Bases de datos** | Oracle DB, MySQL, SQL Server |
 | **Control de versiones** | Git, GitHub |
-| **Otras herramientas** | JasperReports, RIA, DWR, MQTT, Android Studio |
+| **Otras herramientas** | JasperReports, MQTT, Android Studio |
 
 ---
 
@@ -56,18 +55,9 @@ Me apasiona crear soluciones completas: desde el front-end con **Ext JS** hasta 
 - ⚙️ Reactivación solo mediante mensaje remoto (seguridad extra)
 - 🧾 **Tecnologías:** Arduino, C++, MQTT, sensores de gas
 
----
-
-## 🌱 Actualmente aprendiendo
-- 🐳 **Docker + CI/CD Pipelines**
-- ⚙️ **Spring Cloud y Microservicios**
-- ☁️ **AWS y despliegues automatizados**
-- 🔒 **Ciberseguridad aplicada al desarrollo**
-
----
 
 ## 📫 Cómo contactarme
-📧 **alan.leon.dev@gmail.com**  
+📧 **alanantonioleonhernandez@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/alan-antonio-le%C3%B3n-hern%C3%A1ndez-0271962a3/)  
 💻 [GitHub](https://github.com/aalanleoh)
 
